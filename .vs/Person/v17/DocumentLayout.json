@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Person\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E156B9-0650-4EF9-80E1-9CF2753F41B2}|Person\\Person.csproj|c:\\dev\\person\\person\\routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E156B9-0650-4EF9-80E1-9CF2753F41B2}|Person\\Person.csproj|solutionrelative:person\\routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E156B9-0650-4EF9-80E1-9CF2753F41B2}|Person\\Person.csproj|c:\\dev\\person\\person\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E156B9-0650-4EF9-80E1-9CF2753F41B2}|Person\\Person.csproj|solutionrelative:person\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\dev\\Person\\Person\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Person\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\dev\\Person\\Person\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Person\\Models\\PersonModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:05:38.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRoute.cs",
+              "DocumentMoniker": "C:\\dev\\Person\\Person\\Routes\\PersonRoute.cs",
+              "RelativeDocumentMoniker": "Person\\Routes\\PersonRoute.cs",
+              "ToolTip": "C:\\dev\\Person\\Person\\Routes\\PersonRoute.cs",
+              "RelativeToolTip": "Person\\Routes\\PersonRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:44:51.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
