@@ -81,7 +81,7 @@ POST /pessoas
 Content-Type: application/json
 
 {
-  "nome": "Maria Oliveira"
+  "name": "Maria Oliveira"
 }
 ```
 
