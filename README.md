@@ -28,7 +28,7 @@ Cada pessoa contém os seguintes dados:
 ```json
 {
   "id": "56c25eb7-404c-4e90-a16e-ecd5c9365177",
-  "nome": "João Silva"
+  "name": "João Silva"
 }
 ```
 
