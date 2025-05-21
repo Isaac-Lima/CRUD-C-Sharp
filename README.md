@@ -6,7 +6,7 @@ Este projeto é uma Web API desenvolvida em **C# utilizando .NET (Minimal API)**
 
 ## 🧱 Tecnologias Utilizadas
 
-* [.NET 7 ou 8](https://dotnet.microsoft.com/)
+* [.NET 8]([https://dotnet.microsoft.com/](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0))
 * Minimal API (estilo enxuto de construção de APIs no .NET)
 * [SQLite](https://www.sqlite.org/)
 * [Entity Framework Core](https://learn.microsoft.com/ef/)
