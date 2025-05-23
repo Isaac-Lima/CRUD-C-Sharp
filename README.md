@@ -49,13 +49,6 @@ cd CRUD-C-Sharp
 dotnet restore
 ```
 
-### 3. Crie o banco de dados com migrations
-
-```bash
-dotnet ef migrations add InitialCreate
-dotnet ef database update
-```
-
 ### 4. Execute o projeto
 
 ```bash
